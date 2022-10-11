@@ -7,7 +7,7 @@
 
 # V 0.1 11 OCTOBER 2022 
 
-# CONFIRM MEDEA PUB  - BOILERPLATE 
+# CONFIRM MEDEA PUB  - BOILERPLATE ONLY
 
 # ------------------------------
 #       IMPORT LIBRARIES
